@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Expense Tracker with GUI
 
 A simple desktop application built with Python and Tkinter to help you track your income and expenses, visualize spending, and export reports.
@@ -78,3 +79,7 @@ python -m venv venv
 venv\Scripts\activate
 # macOS/Linux
 source venv/bin/activate
+=======
+# smart-expense-tracker
+“A Python GUI-based smart expense tracker project”
+>>>>>>> 26fb17bf2a4dabf16fe86021d3147d401788f2e9
