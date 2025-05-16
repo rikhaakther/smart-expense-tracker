@@ -1,0 +1,19 @@
+Date,Type,Category,Amount,Description
+2025-05-01,Expense,Food,12.50,Lunch at cafe
+2025-05-02,Income,Salary,1500.00,Monthly Salary
+2025-05-03,Expense,Transport,30.00,Bus fare
+2025-05-04,Expense,Entertainment,45.00,Movie ticket
+2025-05-05,Income,Freelance,500.00,Freelance project
+2025-05-06,Expense,Utilities,60.00,Electricity bill
+2025-05-07,Expense,Health,25.00,Pharmacy
+2025-05-08,Income,Bonus,200.00,Quarterly bonus
+2025-05-09,Expense,Shopping,80.00,Clothes
+2025-05-10,Expense,Food,15.00,Snacks
+
+
+2025-05-16 10:49:06,expense,salary,1200.0,dinner at night
+2025-05-16 10:55:09,income,food,1200.0,dinner at night
+2025-05-16 11:00:57,income,transport,30.0,Bus fare
+2025-05-16 11:49:23,income,food,1200.0,dinner
+2025-05-16 11:55:47,income,food,1200.0,dinner at night
+2025-05-16 12:29:49,income,salary,1200.0,monthly salary

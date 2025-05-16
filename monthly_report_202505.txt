@@ -1,0 +1,18 @@
+Monthly Expense Report - 2025-05
+--------------------------------------------------
+Total Income: Rs.2200.0
+Total Expense: Rs.267.5
+Balance: Rs.1932.5
+--------------------------------------------------
+Transactions:
+      Date    Type      Category  Amount       Description
+2025-05-01 expense          Food    12.5     Lunch at cafe
+2025-05-02  income        Salary  1500.0    Monthly Salary
+2025-05-03 expense     Transport    30.0          Bus fare
+2025-05-04 expense Entertainment    45.0      Movie ticket
+2025-05-05  income     Freelance   500.0 Freelance project
+2025-05-06 expense     Utilities    60.0  Electricity bill
+2025-05-07 expense        Health    25.0          Pharmacy
+2025-05-08  income         Bonus   200.0   Quarterly bonus
+2025-05-09 expense      Shopping    80.0           Clothes
+2025-05-10 expense          Food    15.0            Snacks
